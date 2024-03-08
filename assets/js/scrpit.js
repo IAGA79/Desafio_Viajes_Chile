@@ -9,7 +9,6 @@ $(document).ready(function(){
         alert("El correo fue enviado correctamente");
     })
 });
-
 /* Smootp Scrol */
 $('.carousel').on('slide.bs.carousel', function (e) {
     var $target = $(e.relatedTarget);
